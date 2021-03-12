@@ -1,0 +1,24 @@
+{
+  "name": "liri-solution",
+  "version": "1.0.0",
+  "description": "liri",
+  "main": "keys.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ashimsharma337/LIRI-APP.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ashimsharma337/LIRI-APP/issues"
+  },
+  "homepage": "https://github.com/ashimsharma337/LIRI-APP#readme",
+  "dependencies": {
+    "request": "^2.88.2",
+    "spotify": "^0.3.0",
+    "twitter": "^1.7.1"
+  }
+}
